@@ -5,8 +5,6 @@ const gifStages = [
     "moreSad.jpg",             // 3 sad
     "sad.jpg",       // 4 sadder
     "crazy.jpg",             // 5 devastated
-    "please.jpg",               // 6 very devastated
-    "please.jpg"  // 7 crying runaway
 ]
 
 const noMessages = [
@@ -16,9 +14,6 @@ const noMessages = [
     "Come on Habibti!",
     "I will be very sad... 😢",
     "Nothing you can do Muahahaha",
-    "Don't do this to me...",
-    "Last chance! 😭",
-    "You can't catch me anyway 😜"
 ]
 
 const yesTeasePokes = [
