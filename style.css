@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: #FFE4E8;
+    background-color: #DE05E8;
     font-family: 'Nunito', sans-serif;
     min-height: 100vh;
     display: flex;
@@ -29,7 +29,7 @@ body {
 
 .hearts-bg::before,
 .hearts-bg::after {
-    content: '💕 💗 💖 💝 💓';
+    content: 'yes!';
     position: absolute;
     font-size: 1.5rem;
     opacity: 0.15;
@@ -42,7 +42,7 @@ body {
 .hearts-bg::after {
     animation-delay: 6s;
     left: 60%;
-    content: '💗 💕 💓 💖 💝';
+    content: 'Love my Linda';
 }
 
 @keyframes floatHearts {
@@ -59,7 +59,7 @@ body {
 
 h1 {
     font-size: 2.4rem;
-    color: #d63384;
+    color: #0B1466;
     font-weight: 900;
     margin-bottom: 20px;
     text-shadow: 2px 2px 0px rgba(214, 51, 132, 0.2);
@@ -95,7 +95,7 @@ h1 {
 }
 
 #yes-btn {
-    background: linear-gradient(135deg, #4CAF50, #45a049);
+    background: linear-gradient(135deg, #10660B, #45a049);
     color: white;
     border: none;
     border-radius: 16px;
@@ -189,7 +189,7 @@ h1 {
 
 .yes-message {
     font-size: 1.4rem;
-    color: #e91e8c;
+    color: #0B1466;
     font-weight: 700;
     margin-top: 24px;
     animation: fadeIn 1s ease 0.5s both;
